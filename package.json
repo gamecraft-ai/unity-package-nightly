@@ -1,0 +1,8 @@
+{
+  "name": "com.gamecraft.gamecraft",
+  "version": "1.5.0",
+  "displayName": "Gamecraft",
+  "description": "A tiny helper package that helps Gamecraft integrate with your Unity editor.",
+  "unity": "2022.3",
+  "author" : "Gamecraft"
+}
