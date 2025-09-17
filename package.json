@@ -1,5 +1,5 @@
 {
-  "name": "com.gamecraft.gamecraft",
+  "name": "com.gamecraft.converter",
   "version": "1.5.0",
   "displayName": "Gamecraft",
   "description": "A tiny helper package that helps Gamecraft integrate with your Unity editor.",
